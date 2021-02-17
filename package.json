@@ -1,0 +1,12 @@
+{
+    "name": "@ijstech/bignumber",
+    "version": "0.1.0",
+    "description": "BigNumber Plugin for IJS Secure Node",
+    "author": "https://ijs.network",    
+    "license": "MIT",        
+    "dependencies": {},    
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ijstech/bignumber"
+    }
+}
